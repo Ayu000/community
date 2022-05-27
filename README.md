@@ -1,12 +1,12 @@
-##ayu
+## ayu
 
 
-##资料
+## 资料
 
 
-##工具
+## 工具
 
 
-##遇见的问题
-1.网页打不开   no message
-解决办法：导入thymeleaf
+## 遇见的问题
+1. 网页打不开   no message
+  解决办法：导入thymeleaf
